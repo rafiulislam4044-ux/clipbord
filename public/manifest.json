@@ -1,0 +1,14 @@
+{
+  "name": "Online Clipboard — Save, Share & Protect Text & Code",
+  "short_name": "Clipboard",
+  "description": "Free online clipboard tool. Save text, code, images & links with password protection, auto-expiry, and instant sharing across all devices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1",
+  "categories": ["utilities", "productivity"],
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,43 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /clip/*/edit
+Disallow: /login
+Disallow: /signup
+
+User-agent: Bingbot
+Allow: /
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /login
+Disallow: /signup
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Block AI scrapers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /settings
+Disallow: /login
+Disallow: /signup
+Crawl-delay: 1
+
+Sitemap: https://onlineclipboard.pro/sitemap.xml

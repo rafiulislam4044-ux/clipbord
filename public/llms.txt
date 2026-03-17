@@ -1,0 +1,27 @@
+# Online Clipboard
+
+Online Clipboard is a free, secure web-based tool for saving and sharing text, code, images, and links across devices.
+
+## Features
+- Save text, code snippets, images, and URLs
+- Password protection with bcrypt encryption
+- Auto-expiry with self-destructing clips
+- Code syntax highlighting for 20+ programming languages
+- Public and private clip visibility
+- Instant shareable links
+- Cross-device access from any browser
+- Tag-based organization
+- View count tracking
+
+## Use Cases
+- Developers sharing code snippets
+- Writers saving research notes
+- Designers sharing visual references
+- Teams collaborating on projects
+- Students saving study materials
+
+## Pricing
+Free forever. No credit card required. No limits.
+
+## URL
+https://onlineclipboard.pro
